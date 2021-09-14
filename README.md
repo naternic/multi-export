@@ -1,13 +1,12 @@
 # multi-export
 InDesign script to export an InDesign file to PNG, JPG and/or PDF simultaneously based on user-defined settings. 
 
-English description can be found after the German one
-
 ***
 Was macht das Skript?
 ***
 
 Das Skript checkt zuerst, ob alle Files gespeichert sind. Wenn nicht, wird der:die Anwender:in aufgefordert, die Files zu speichern. Der Speicherdialog wird durch das Skript direkt ausgelöst. Danach wird erfragt, in welches Format bzw. in welche Formate (JPG, PNG und/oder PDF) das InDesign-File exportiert werden soll. Es wird ein regulärer Export des ersten Files im jeweiligen Format ausgelöst und für die restlichen geloopt. Am Ende wird gefragt, ob die offenen Files geschlossen werden sollen.
+
 
 ***
 What does the script do?
